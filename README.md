@@ -74,7 +74,7 @@ Happy exploring!
 
 | <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss1.png" width="300"> | <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss2.png" width="300"> |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss3.png" width="300"> | <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss3_2.png" width="300"> |
+| <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss3.png" width="300"> | <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss3_2.jpeg" width="300"> |
 | <img src="https://raw.githubusercontent.com/87nehal/InfooCoo/main/Demo/ss4.png" width="300"> | |
 
 
